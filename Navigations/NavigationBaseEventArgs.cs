@@ -1,9 +1,9 @@
 using System;
 
-using TS.UI.Controls;
+using WPF.UI.Controls;
 
 
-namespace TS.UI.Navigations
+namespace WPF.UI.Navigations
 {
     /// <summary>
     /// Defines the base navigation event arguments.
