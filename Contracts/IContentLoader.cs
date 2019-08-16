@@ -3,7 +3,7 @@ using System.Threading;
 using System.Threading.Tasks;
 
 
-namespace TS.UI.Contracts
+namespace WPF.UI.Contracts
 {
     /// <summary>
     /// The contract for loading content.
