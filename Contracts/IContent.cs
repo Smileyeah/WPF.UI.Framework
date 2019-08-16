@@ -1,7 +1,7 @@
-using TS.UI.Navigations;
+using WPF.UI.Navigations;
 
 
-namespace TS.UI.Contracts
+namespace WPF.UI.Contracts
 {
     /// <summary>
     /// Defines the optional contract for content loaded in a ModernFrame.
