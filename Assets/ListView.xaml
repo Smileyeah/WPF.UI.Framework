@@ -1,11 +1,11 @@
 <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-                    xmlns:selectors="clr-namespace:TS.UI.Controls.Selectors"
+                    xmlns:selectors="clr-namespace:WPF.UI.Controls.Selectors"
                     >
     
     <ResourceDictionary.MergedDictionaries>
-        <ResourceDictionary Source="pack://application:,,,/TS.UI;component/Themes/Colors.xaml" />
-        <ResourceDictionary Source="pack://application:,,,/TS.UI;component/Assets/ScrollViewer.xaml" />
+        <ResourceDictionary Source="pack://application:,,,/WPF.UI;component/Themes/Colors.xaml" />
+        <ResourceDictionary Source="pack://application:,,,/WPF.UI;component/Assets/ScrollViewer.xaml" />
     </ResourceDictionary.MergedDictionaries>
 
     <Style x:Key="Style.ListView.Normal" TargetType="{x:Type selectors:ListViewOptimized}">
